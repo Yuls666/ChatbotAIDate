@@ -1044,11 +1044,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1923
+      value: -1071
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9751977
+      value: 0.9979919
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1056,7 +1056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.22133593
+      value: 0.063341476
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalRotation.z
@@ -1064,15 +1064,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1541
+      value: 1213
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2150
+      value: 267
       objectReference: {fileID: 0}
     - target: {fileID: 5043124621647957037, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 25.575
+      value: 7.263
       objectReference: {fileID: 0}
     - target: {fileID: 5640325391487457652, guid: d22bd8b2bca97c14295d2f6d73499a8a, type: 3}
       propertyPath: m_RootOrder
@@ -1186,10 +1186,10 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.8632076, b: 0.8632076, a: 1}
-  m_Intensity: 3
+  m_Intensity: 2.19
   m_Range: 20
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
+  m_SpotAngle: 133
+  m_InnerSpotAngle: 12
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2

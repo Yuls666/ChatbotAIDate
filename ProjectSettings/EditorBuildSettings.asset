@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Inworld.AI/Scenes/MenuInicial.unity
+    guid: caadebd3ad9c06d4fa1aaa85c16c4904
+  - enabled: 1
+    path: Assets/Inworld.AI/Scenes/SampleBasic.unity
+    guid: 07533e40544c088448626bcd0b1034c2
   m_configObjects: {}
